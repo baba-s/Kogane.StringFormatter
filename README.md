@@ -1,4 +1,4 @@
-# UniStringFormatter
+# Kogane String Formatter
 
 ジェネリックを使用することで string.Format の GC Alloc を減らすためのインターフェイス
 
